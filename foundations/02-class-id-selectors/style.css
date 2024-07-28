@@ -1,0 +1,18 @@
+.alert-text{
+    background-color: lightpink;
+    font-family: "Verdana","DejaVu Sans", sans-serif;
+}
+
+#Numbertwo{
+    color: blue;
+    font-size:36px;
+}
+/* THis connects with the first class alert-text*/
+.odd{
+    font-size:24px;
+}
+#Numberfour{
+    background-color: lightgreen;
+    font-size:24px;
+    font-weight: bold;
+}
